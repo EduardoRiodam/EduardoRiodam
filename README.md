@@ -1,8 +1,8 @@
 ## 👨🏾‍💻 Eduardo Riodam
 **`Engenheiro de Dados / Engenheiro de Software`**
 
-Meu nome é Eduardo Mendes, sou do Rio de Janeiro. Sou formado em Análise e Desenvolvimento de Sistemas, 
-atualmente curso Bacharelado em Engenharia de Software e também estou realizando uma Pós-Graduação em Engenharia de Dados.
+Meu nome é Eduardo Mendes, sou do Rio de Janeiro. Sou formado em Análise e Desenvolvimento de Sistemas, Pós Graduado Engenheiro de Dados.
+Atualmente na formação Bacharelado em Engenharia de Software.
 Estou em constante evolução profissional e busco aprimorar minhas competências técnicas e estratégicas dentro da área de tecnologia.
 
 ---
